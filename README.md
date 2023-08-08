@@ -8,7 +8,7 @@ A web-based Scientific Calculator built using HTML, CSS, and Vue.js.
 - [Features](#features)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- 
+
 ## Introduction
 
 Welcome to the Scientific Calculator! This is a web-based calculator designed to perform a wide range of mathematical calculations. The calculator offers both basic and advanced modes, making it versatile for various mathematical needs. It's built using HTML, CSS, and Vue.js to provide an interactive and user-friendly experience.
